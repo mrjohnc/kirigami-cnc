@@ -17,7 +17,8 @@ The current design is largely inspired by Maslow CNC, an open source CNC router 
 https://github.com/MaslowCNC
 
 
-## Number of copies of each file
+## Print imstructions
+Print each file the number of sides shown, files were printed successfull using an 0.4mm nozzle with 20% infill and 1.2mm top, bottom and sides.
 
 * **1x** Base 
 * **2x** Counterweight cylinder top 
