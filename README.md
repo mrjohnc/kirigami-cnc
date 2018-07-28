@@ -17,7 +17,8 @@ The current design is largely inspired by Maslow CNC, an open source CNC router 
 https://github.com/MaslowCNC
 
 
-## Print instructions
+## Components
+### Printed parts
 Print each file the number of sides shown, files were printed successfull using an 0.4mm nozzle with 20% infill and 1.2mm top, bottom and sides.
 
 * **1x** Base 
@@ -39,3 +40,26 @@ Print each file the number of sides shown, files were printed successfull using 
 * **1x** Tool bearing holder
 * **1x** Tool blade holder 
 * **8x** Wheel spacer
+
+### Non printed parts
+* **1x** Snap off utility knife
+* **3x** NEMA 17 motors
+* **2x** GT2 belts
+* **2x** GT2 belt gears
+* **3x** 608 bearings
+* **1x** 3D printer control board
+* **1x** Power supply
+* **1x** 3D printer thermister
+* **1kg/2lbs** salt (used for weight)
+
+
+## Biggest issues
+### Hardware
+* Find a better way to attach belt to ring with less wobbliness
+* Replace plastic bearings with real bearings on motor plate
+* Find way for machine to understand its position
+* More tools
+* Find way to raise and lower tools
+
+### Software
+* Find way to actually cut a shape
