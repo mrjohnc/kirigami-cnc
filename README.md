@@ -19,22 +19,22 @@ https://github.com/MaslowCNC
 
 ## Number of copies of each file
 
-* Base **x1**
-* Counterweight cylinder top **x2**
-* Counterweight cylinder **x2**
-* Counterweight lid **x2**
-* Counterweight **x2**
-* Fixer **x16**
-* Large wheel inner **x2**
-* Large wheel outer **x4**
-* Motor bracket **x2**
-* Motor stencil **x1**
-* Ring bearing holder part 1 **x2**
-* Ring bearing holder part 2 **x2**
-* Ring spacer **x4**
-* Ring **x1**
-* Small wheel inner **x6**
-* Small wheel outer **x12**
-* Tool bearing holder **x1**
-* Tool blade holder **x1**
-* Wheel spacer **x8**
+* **1x** Base 
+* **2x** Counterweight cylinder top 
+* **2x** Counterweight cylinder 
+* **2x** Counterweight lid
+* **2x** Counterweight 
+* **16x** Fixer 
+* **2x** Large wheel inner
+* **4x** Large wheel outer 
+* **2x** Motor bracket
+* **1x** Motor stencil
+* **2x** Ring bearing holder part 1
+* **2x** Ring bearing holder part 2
+* **4x** Ring spacer
+* **1x** Ring 
+* **6x** Small wheel inner
+* **12x** Small wheel outer 
+* **1x** Tool bearing holder
+* **1x** Tool blade holder 
+* **8x** Wheel spacer
