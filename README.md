@@ -17,7 +17,7 @@ The current design is largely inspired by Maslow CNC, an open source CNC router 
 https://github.com/MaslowCNC
 
 
-NUmber of copies of each file:
+##Number of copies of each file
 
 * Base x1
 * Counterweight cylinder top x2
