@@ -51,7 +51,11 @@ Print each file the number of sides shown, files were printed successfull using 
 * **1x** Power supply
 * **1x** 3D printer thermister
 * **1kg/2lbs** Table salt (used counterwiegh)
-* Screws (details to be added
+* Screws (details to be added)
+
+## Construction
+
+Coming soon
 
 
 ## Biggest issues
