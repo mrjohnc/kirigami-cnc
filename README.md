@@ -56,7 +56,30 @@ Print each file the number of sides shown, files were printed successfull using 
 
 ## Construction
 
-Coming soon
+### Toolhead
+Printed parts needed
+*
+
+1. 
+
+### Motor assembly
+Printed parts needed
+*
+
+1. 
+
+
+### Control board
+Printed parts needed
+* 
+
+1. 
+
+### Counterweight
+Printed parts needed
+* 
+
+1. 
 
 
 ## Biggest issues
