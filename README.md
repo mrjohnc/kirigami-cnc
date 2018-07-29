@@ -19,7 +19,7 @@ https://github.com/MaslowCNC
 
 ## Components
 ### Printed parts
-Print each file the number of sides shown, files were printed successfull using an 0.4mm nozzle with 20% infill and 1.2mm top, bottom and sides.
+Print each file the number of times shown, files were printed successfully in PLA using an 0.4mm nozzle with 20% infill and 1.2mm top, bottom and sides.
 
 * **1x** Base 
 * **2x** Counterweight cylinder top 
