@@ -42,7 +42,7 @@ Print each file the number of times shown, files were printed successfully in PL
 * **8x** Wheel spacer
 
 ### Non printed parts
-* **1x** Snap off utility knife
+* **1x** Snap off utility knife blade
 * **3x** NEMA 17 motors
 * **2x** GT2 belts
 * **2x** GT2 belt gears
@@ -52,6 +52,7 @@ Print each file the number of times shown, files were printed successfully in PL
 * **1x** 3D printer thermister
 * **1kg/2lbs** Table salt (used counterwiegh)
 * **6x** Cable ties
+* **1x** M3 square nut
 * Screws (details to be added)
 
 ## Construction
