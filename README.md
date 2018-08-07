@@ -90,6 +90,9 @@ Parts needed
 * **1x** blade
 
 ### Control board
+<p align="left">
+  <img height="200" src="/Photos/PCB.jpg">
+</p>
 Parts needed
 * **4x20mm** M3 bolts
 
