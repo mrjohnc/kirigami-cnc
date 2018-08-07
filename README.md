@@ -68,11 +68,14 @@ Print each file the number of times shown, files were printed successfully in PL
   <img height="200" src="/Photos/Motor mount.jpg">
 </p>
 Parts needed (per motor assembly)
+Printed parts:
 
+Non printed parts:
 * **4x10mm** M3 bolts (bolt motors into plate)
 * **4x35mm** M3 bolts (for outside corners where a printed bearing is used)
 * **1x18mm** M3 bolt (for top corner opposite large gear)
 * **1x** Large sheet of ply wood or similar stiff material
+* **1x** GT2 belt
 
 
 ### Base
@@ -110,7 +113,6 @@ Printed parts:
 
 Non printed parts
 * **2x18mm** M3 bolts
-* **1x** GT2 belt
 
 
 1. 
