@@ -19,7 +19,7 @@ https://github.com/MaslowCNC
 
 ## Current status
 ### Done
-A very basic first version has been created moves but has no toolchain (click image for video). There is one toolhead for a craft knife which cuts paper.
+A very basic first version has been created moves but has no toolchain (click image for video). There is one toolhead for a craft knife which cuts paper. The motion system is very wobbly because the way the bearings run on the toolhead base is poor and need to be redesigned.
 
 [![](http://img.youtube.com/vi/BQzhzq3MdRw/0.jpg)](http://www.youtube.com/watch?v=BQzhzq3MdRw "First Kirigami CNC test moves")
 
