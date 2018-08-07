@@ -73,6 +73,9 @@ Parts needed (per motor assembly)
 
 
 ### Base
+<p align="left">
+  <img height="200" src="/Photos/Base.jpg">
+</p>
 * **4x18mm** M3 bolts (outside ring)
 * **4x35mm** M3 bolts (inside ring) 
 * **3x608** bearing
