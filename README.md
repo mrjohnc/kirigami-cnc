@@ -105,6 +105,12 @@ Non printed parts:
 * **3x608** bearing
 
 #### Cutting head
+<p align="left">
+  <img height="200" src="/Photos/Cutting head 1.jpg">
+</p>
+<p align="left">
+  <img height="200" src="/Photos/Cutting head 2.jpg">
+</p>
 Parts needed
 * **1x18mm** M3 bolt
 * **1x** M3 square nut
