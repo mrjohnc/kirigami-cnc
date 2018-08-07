@@ -97,6 +97,9 @@ Parts needed
 * **4x20mm** M3 bolts
 
 ### Counterweight
+<p align="left">
+  <img height="200" src="/Photos/Counterweight.jpg">
+</p>
 Parts needed (per counterwieght)
 Printed parts:
 
