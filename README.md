@@ -19,7 +19,7 @@ https://github.com/MaslowCNC
 
 ## Current status
 ### Done
-A very basic first version has been created with one tool head which moves but has no toolchain (click image for video)
+A very basic first version has been created moves but has no toolchain (click image for video). There is one toolhead for a craft knife which cuts paper.
 
 [![](http://img.youtube.com/vi/BQzhzq3MdRw/0.jpg)](http://www.youtube.com/watch?v=BQzhzq3MdRw "First Kirigami CNC test moves")
 
@@ -30,6 +30,8 @@ A very basic first version has been created with one tool head which moves but h
 * Find way for machine to understand its position
 * More tools
 * Find way to raise and lower tools
+* Find way to add more weight to the toolhead so it can cut consistently
+* Some way to create a board that can operate at 45% so it can apply enough force to cut properly
 
 #### Software
 * Everything
