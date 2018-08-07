@@ -18,8 +18,8 @@ https://github.com/MaslowCNC
 
 
 ## Current status
-###Done
-A very basic first version has been created with one tool head which moves but has no toolchain
+### Done
+A very basic first version has been created with one tool head which moves but has no toolchain (click image for video)
 
 [![](http://img.youtube.com/vi/BQzhzq3MdRw/0.jpg)](http://www.youtube.com/watch?v=BQzhzq3MdRw "First Kirigami CNC test moves")
 
