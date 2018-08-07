@@ -17,11 +17,26 @@ The current design is largely inspired by Maslow CNC, an open source CNC router 
 https://github.com/MaslowCNC
 
 
+## Current status
+###Done
+A very basic first version has been created with one tool head which moves but has no toolchain
+
 [![](http://img.youtube.com/vi/BQzhzq3MdRw/0.jpg)](http://www.youtube.com/watch?v=BQzhzq3MdRw "First Kirigami CNC test moves")
 
+### Biggest issues
+#### Hardware
+* Find a better way to attach belt to ring with less wobbliness
+* Replace plastic bearings with real bearings on motor plate
+* Find way for machine to understand its position
+* More tools
+* Find way to raise and lower tools
 
-## Components
-### Printed parts
+#### Software
+* Everything
+
+
+## Building a Kirigami CNC
+#### Printed parts
 Printed parts are available in the STLs folder. Print each file the number of times shown, files were printed successfully in PLA using an 0.4mm nozzle with 20% infill and 1.2mm top, bottom and sides.
 
 * **1x** Base 
@@ -45,7 +60,7 @@ Printed parts are available in the STLs folder. Print each file the number of ti
 * **8x** Wheel spacer
 
 
-### Non printed parts
+#### Non printed parts
 * **1x** Snap off utility knife blade
 * **3x** NEMA 17 motors
 * **2x** GT2 belts
@@ -65,8 +80,8 @@ Printed parts are available in the STLs folder. Print each file the number of ti
 
 
 
-## Construction
-### Motor mount
+### Construction
+#### Motor mount
 <p align="left">
   <img height="200" src="/Photos/Motor mount.jpg">
 </p>
@@ -81,7 +96,7 @@ Non printed parts:
 * **1x** GT2 belt
 
 
-### Base
+#### Base
 <p align="left">
   <img height="200" src="/Photos/Base.jpg">
 </p>
@@ -89,20 +104,20 @@ Non printed parts:
 * **4x35mm** M3 bolts (inside ring) 
 * **3x608** bearing
 
-### Cutting head
+#### Cutting head
 Parts needed
 * **1x18mm** M3 bolt
 * **1x** M3 square nut
 * **1x** blade
 
-### Control board
+#### Control board
 <p align="left">
   <img height="200" src="/Photos/PCB.jpg">
 </p>
 Parts needed
 * **4x20mm** M3 bolts
 
-### Counterweight
+#### Counterweight
 <p align="left">
   <img height="200" src="/Photos/Counterweight.jpg">
 </p>
@@ -122,13 +137,4 @@ Non printed parts
 
 
 
-## Biggest issues
-### Hardware
-* Find a better way to attach belt to ring with less wobbliness
-* Replace plastic bearings with real bearings on motor plate
-* Find way for machine to understand its position
-* More tools
-* Find way to raise and lower tools
 
-### Software
-* Everything
