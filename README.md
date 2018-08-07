@@ -17,6 +17,9 @@ The current design is largely inspired by Maslow CNC, an open source CNC router 
 https://github.com/MaslowCNC
 
 
+[![](http://img.youtube.com/vi/BQzhzq3MdRw/0.jpg)](http://www.youtube.com/watch?v=BQzhzq3MdRw "First Kirigami CNC test moves")
+
+
 ## Components
 ### Printed parts
 Printed parts are available in the STLs folder. Print each file the number of times shown, files were printed successfully in PLA using an 0.4mm nozzle with 20% infill and 1.2mm top, bottom and sides.
