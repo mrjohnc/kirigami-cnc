@@ -46,7 +46,7 @@ Printed parts are available in the STLs folder. Print each file the number of ti
 * **2x** Counterweight cylinder 
 * **2x** Counterweight lid
 * **2x** Counterweight 
-* **16x** Fixer 
+* **12x** Fixer 
 * **2x** Large wheel inner
 * **4x** Large wheel outer 
 * **2x** Motor bracket
@@ -64,7 +64,7 @@ Printed parts are available in the STLs folder. Print each file the number of ti
 
 #### Non printed parts
 * **1x** Snap off utility knife blade
-* **3x** NEMA 17 motors
+* **2x** NEMA 17 motors
 * **2x** GT2 belts
 * **2x** GT2 belt gears
 * **3x** 608 bearings
@@ -87,24 +87,51 @@ Printed parts are available in the STLs folder. Print each file the number of ti
 <p align="left">
   <img height="200" src="/Photos/Motor mount.jpg">
 </p>
-Parts needed (per motor assembly)
 Printed parts:
+* **8x** Fixer 
+* **2x** Large wheel inner
+* **4x** Large wheel outer 
+* **2x** Motor bracket
+* **1x** Motor stencil
+* **6x** Small wheel inner
+* **12x** Small wheel outer 
+* **8x** Wheel spacer
+
 
 Non printed parts:
 * **4x10mm** M3 bolts (bolt motors into plate)
-* **4x35mm** M3 bolts (for outside corners where a printed bearing is used)
+* **8x35mm** M3 bolts (for outside corners where a printed bearing is used)
 * **1x18mm** M3 bolt (for top corner opposite large gear)
 * **1x** Large sheet of ply wood or similar stiff material
 * **1x** GT2 belt
+* **2x** NEMA 17 motors
+
+
+1. Use the **Motor stencil** draw the shapes in the top left and right **ply wood** to cut, the outer edge of the stencil should be at least 10 cm from the side edges of the material to allow for space for the counterwight to go up and down.
+2. Cut out the shape of the motor and drill the holes for the bolts, using a 3mm drill will allow the screws to bite into the material as well as being attached using the fixers.
+3. Screw the motor to the Motor bracket using the 10mm bolts
+4. Create each of the plastic bearings for the GT2 belt using a **Small wheel inner** placed between two **Small wheel outer**s and screw a 35mm bolt through till it reaches the top of the bolt.
+5. Screw a **Wheel spacer** onto the back of the plastic bearing you've just made
+6. Screw the bolt with the parts on into one of the positions shown above, attaching it to the plywood board.
+7. Repeat for the other small wheels and the big wheel, making sure the big wheel is on the outside edge of the board.
 
 
 #### Base
 <p align="left">
   <img height="200" src="/Photos/Base.jpg">
 </p>
+Printed parts:
+* **1x** Base 
+* **2x** Ring bearing holder part 1
+* **2x** Ring bearing holder part 2
+* **4x** Ring spacer
+* **1x** Ring 
+
+Non printed parts
 * **4x18mm** M3 bolts (outside ring)
 * **4x35mm** M3 bolts (inside ring) 
 * **3x608** bearing
+
 
 #### Cutting head
 <p align="left">
@@ -117,6 +144,7 @@ Parts needed
 * **1x18mm** M3 bolt
 * **1x** M3 square nut
 * **1x** blade
+
 
 #### Control board
 <p align="left">
