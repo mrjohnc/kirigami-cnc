@@ -46,7 +46,7 @@ Printed parts are available in the STLs folder. Print each file the number of ti
 * **2x** Counterweight cylinder 
 * **2x** Counterweight lid
 * **2x** Counterweight 
-* **12x** Fixer 
+* **16x** Fixer 
 * **2x** Large wheel inner
 * **4x** Large wheel outer 
 * **2x** Motor bracket
@@ -74,11 +74,16 @@ Printed parts are available in the STLs folder. Print each file the number of ti
 * **1kg/2lbs** Table salt (used in counterwiegh)
 * **6x** Cable ties
 * **1x** M3 square nut
-* **4x10mm** M3 bolts
+* **5x10mm** M3 bolts
 * **8x10mm** M3 bolts
 * **9x18mm** M3 bolts
 * **12x35mm** M3 bolts
 * **1x** Large sheet of ply wood or similar stiff material
+
+#### Software
+(A first version, likely to change)
+* Slic3r
+* Pronterface
 
 
 
@@ -140,10 +145,20 @@ Non printed parts
 <p align="left">
   <img height="200" src="/Photos/Cutting head 2.jpg">
 </p>
-Parts needed
+Printed parts
+* **1x** Tool blade holder 
+
+Non printed parts
 * **1x18mm** M3 bolt
+* **1x10mm** M3 bolt
 * **1x** M3 square nut
 * **1x** blade
+
+1. Push the square but into the hole in the **Tool blade holder**
+2. Screw the bolt into the hole on the **Tool blade holder** that is the opposite side to the nut, so the bolt goes throught the middle, don't tighten it.
+3. Snap two section off the blade
+4. Slide the snapped off blades in to the slot in the **Tool blade holder** so that it is poking out the bottom the depth of the material you want to cut, make sure the edge of the blade lines up with the line on the bottom. BE CAREFUL NOT TO CUT YOURSELF
+5. Tighten the nut so that the knife blade doesn't move.
 
 
 #### Control board
@@ -151,7 +166,20 @@ Parts needed
   <img height="200" src="/Photos/PCB.jpg">
 </p>
 Parts needed
-* **4x20mm** M3 bolts
+* **4x??mm** M3 bolts
+* **1x** 3D printer control board
+* **8x** Fixer 
+
+1. Put the control board where you want to mount it on the plywood board, between the motors away from anything moving is sensible.
+2. Mark on the board using the mounting holes on the board where you will drill the mounting holes in the plywood board
+3. Drill the holes
+4. Slide the bolt through the board and add a fixer to the back of each bolt to create a gap between the board and the plywood.
+5. Mount the board on the plywood
+6. Attach on the back using the remianing 4 fixers.
+7. Wire up the motors
+8. Add the thermistor (the thermistor is used to not trip the mintemp sensor in Pronterface
+
+
 
 #### Counterweight
 <p align="left">
@@ -167,10 +195,29 @@ Printed parts:
 
 Non printed parts
 * **2x18mm** M3 bolts
+* **1kg/2lbs** Table salt
+
+1. Fill each of the counterweights to the top with table
+2. Push the **Counterweight cylinder top** intot the hole in the **Counterweight**
+3. Screw the **Counterweight cylinder top** followed by the **Counterweight cylinder** onto the 18mm bolt.
+4. Screw the bolt into the hole in the counterweight, this will stop the lid coming off
+5. Loop the GT2 belt around the **Counterweight cylinder** teeth facing inwards so they will fit together
+6. Cable tie the belt together, don't worry about excess belt, don't cut it in case you want to use a larger board in future
 
 
-1. 
+#### First movements
+DONT MOUNT THE KNIFE TOOL FOR THIS TEST, USE A PEN IF YOU LIKE
+1. Tape a large piece of paper to the plywood board
+2. Put the toolhead roughly in the middle
+3. Open Pronterface and connect to the control board
+4. Write down the thermistor temperature
+3. Load a simple shape in Slic3r that is 0.2mm thick (I used Tinkercad to make a circle)
+4. Slice the shape like you're printing on a 3D printer, make the layer height 0.2mm, set the hotend temperature to a few degrees lower than the room temperature
+5. Export the GCode
+6. Open up the GCode in a text editor and remove the first few lines to make sure you got rid of any endstop homing commands
+7. Load the file in Pronterface and press start
+8. The machine should roughly make the shape
 
-
+This is as far as I've got.......
 
 
