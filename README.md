@@ -41,6 +41,7 @@ Print each file the number of times shown, files were printed successfully in PL
 * **1x** Tool blade holder 
 * **8x** Wheel spacer
 
+
 ### Non printed parts
 * **1x** Snap off utility knife blade
 * **3x** NEMA 17 motors
@@ -53,34 +54,55 @@ Print each file the number of times shown, files were printed successfully in PL
 * **1kg/2lbs** Table salt (used counterwiegh)
 * **6x** Cable ties
 * **1x** M3 square nut
-* Screws (details to be added)
+* **4x10mm** M3 bolts
+* **8x10mm** M3 bolts
+* **9x18mm** M3 bolts
+* **12x35mm** M3 bolts
+* **1x** Large sheet of ply wood or similar stiff material
+
+
 
 ## Construction
-
-### Toolhead
-Parts needed
-*
-
-1. 
-
 ### Motor assembly
+Parts needed (per motor assembly)
+
+* **4x10mm** M3 bolts (bolt motors into plate)
+* **4x35mm** M3 bolts (for outside corners where a printed bearing is used)
+* **1x18mm** M3 bolt (for top corner opposite large gear)
+* **1x** Large sheet of ply wood or similar stiff material
+
+
+### Base
+* **4x18mm** M3 bolts (outside ring)
+* **4x35mm** M3 bolts (inside ring) 
+* **3x608** bearing
+
+### Cutting head
 Parts needed
-*
-
-1. 
-
+* **1x18mm** M3 bolt
+* **1x** M3 square nut
+* **1x** blade
 
 ### Control board
 Parts needed
-* 
-
-1. 
+* **4x20mm** M3 bolts
 
 ### Counterweight
-Parts needed
-* 
+Parts needed (per counterwieght)
+Printed parts:
+
+* **1x** Counterweight cylinder top 
+* **1x** Counterweight cylinder 
+* **1x** Counterweight lid
+* **1x** Counterweight 
+
+Non printed parts
+* **2x18mm** M3 bolts
+* **1x** GT2 belt
+
 
 1. 
+
 
 
 ## Biggest issues
