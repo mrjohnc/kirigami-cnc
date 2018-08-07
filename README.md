@@ -63,7 +63,10 @@ Print each file the number of times shown, files were printed successfully in PL
 
 
 ## Construction
-### Motor assembly
+### Motor mount
+<p align="left">
+  <img height="200" src="/Photos/Motor mount.jpg">
+</p>
 Parts needed (per motor assembly)
 
 * **4x10mm** M3 bolts (bolt motors into plate)
