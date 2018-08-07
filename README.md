@@ -51,7 +51,7 @@ Print each file the number of times shown, files were printed successfully in PL
 * **1x** 3D printer control board
 * **1x** Power supply
 * **1x** 3D printer thermister
-* **1kg/2lbs** Table salt (used counterwiegh)
+* **1kg/2lbs** Table salt (used in counterwiegh)
 * **6x** Cable ties
 * **1x** M3 square nut
 * **4x10mm** M3 bolts
