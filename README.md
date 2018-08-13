@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=JtKi8lNSqvw
 The current design is largely inspired by Maslow CNC, an open source CNC router with a design similar to a hanging plotter. 
 https://github.com/MaslowCNC
 
+The board on which the machine moves is angled so that gravity pushes the cutting tool into the material being cut.
 
 ## Current status
 ### Done
